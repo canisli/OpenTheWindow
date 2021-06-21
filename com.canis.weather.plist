@@ -11,7 +11,7 @@
 		</array>
 
 		<key>ThrottleInterval</key>
-		<integer>10</integer>
+		<integer>600</integer>
 
 		<key>KeepAlive</key>
 		<true/>
