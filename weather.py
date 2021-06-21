@@ -20,7 +20,7 @@ try:
     min = int(now.strftime("%M"))
     sec = int(now.strftime("%S"))
     print(min)
-    if hour ==  10 and min < 50:
+    if hour ==  5 and min < 11:
         # subprocess.run("say hi", shell=True)
         w = open("/Users/Canis/Dev/OpenTheWindow/status.txt", "w")
         w.write("yes")
